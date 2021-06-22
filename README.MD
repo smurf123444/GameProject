@@ -6,7 +6,7 @@ Lets get cookin ;)
 
 Nows your chance... Get your BAGS
 
-Designed by:
+###Designed by:
 
-### PULSECHAIN GET YOUR BAGS.
-### HEX DYNASTY
+* PULSECHAIN GET YOUR BAGS
+* HEX DYNASTY
