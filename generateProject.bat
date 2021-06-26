@@ -1,2 +1,2 @@
-call hazel\vendor\bin\premake5.exe vs2019
+call hazel\vendor\bin\premake5.exe vs2017
 PAUSE
